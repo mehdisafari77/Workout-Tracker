@@ -4,10 +4,13 @@
 This is a workout tracker app, you can enter your workouts, and track the data in your dashboard.
 
 ## Link To Deployed App
-https://polar-badlands-25931.herokuapp.com/#
+https://workout-tracker-mehdi.herokuapp.com/
 
 ## Screenshot Of Main Screen
+<img width="1128" alt="Screenshot 2021-11-12 at 16 52 30" src="https://user-images.githubusercontent.com/75599021/141599329-730bcd1b-8635-4df4-8464-d57625ec2d5e.png">
 
+## Screenshot Of Stats Screen
+<img width="1126" alt="Screenshot 2021-11-12 at 16 39 53" src="https://user-images.githubusercontent.com/75599021/141599333-77d24435-3c23-4b8f-ab2b-662f38266a6e.png">
 
 ## Built With
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
