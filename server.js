@@ -2,8 +2,6 @@ const express = require("express");
 const logger = require("morgan");
 const mongoose = require("mongoose");
 
-
-
 const PORT = 3000;
 const app = express();
 
@@ -19,8 +17,8 @@ mongoose.connect("mongodb://localhost/workout", {
   useUnifiedTopology: true
 });
 
-app.use(require("./routes/controllerRoutes"))
-app.use(require("./routes/viewRoutes"))
+// app.use(require("./routes/controllerRoutes"))
+// app.use(require("./routes/viewRoutes"))
 
 // routes
 app.listen(PORT, () => {
